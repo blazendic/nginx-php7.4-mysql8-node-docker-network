@@ -3,6 +3,8 @@ Fast lightweight Docker network using PHP MySQL Nginx
 
 I use this Docker setup to quickly spin off everything needed for Symfony 5 development.
 
+` docker-compose up`
+
 ` docker exec -it php8-container /bin/bash`
 
 `composer create-project symfony/skeleton .` OR
